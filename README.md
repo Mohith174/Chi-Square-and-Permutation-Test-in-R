@@ -1,4 +1,4 @@
-# HW12: Salk Vaccine Trials Analysis
+# Salk Vaccine Trials Analysis
 
 ## Background
 
